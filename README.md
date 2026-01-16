@@ -4,7 +4,7 @@
 
 **Building scalable intelligence systems where reliability meets machine learning.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=0e75b6)
+[![Profile views](https://komarev.com/ghpvc/?username=mrahul12&color=blue)](https://github.com/mrahul12)
 
 </div>
 
